@@ -1,8 +1,8 @@
 {
   "name": "cyberpink-theme",
   "description": "Dark theme in cyberpunk style with neon pink and violet.",
-  "displayName": "CYBERPINK © Theme",
-  "version": "1.0.26",
+  "displayName": "CYBERPINK ©",
+  "version": "1.0.33",
   "icon": "assets/icon.jpg",
   "repository": {
     "url": "https://github.com/alybomb/Cyberpink.git"
@@ -23,7 +23,7 @@
     ]
   },
   "author": {
-    "name": "𓆩 Aly 𓆪©"
+    "name": "ALY-137 ©"
   },
   "scripts": {
     "package": "vsce package --no-yarn",
