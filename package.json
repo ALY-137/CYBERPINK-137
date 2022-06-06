@@ -1,0 +1,36 @@
+{
+  "name": "cyberpink-theme",
+  "description": "Dark theme in cyberpunk style with neon pink and violet.",
+  "displayName": "CYBERPINK ©",
+  "version": "1.0.34",
+  "icon": "assets/icon.jpg",
+  "repository": {
+    "url": "https://github.com/ALY-137/CYBERPINK.git"
+  },
+  "keywords": ["cyberpunk","neon","purple","pink","violet","blue","cyberpink","Cyberpunk 2077","pink and purple theme","pink theme","purple theme","cyberpunk theme","Neon theme","violet theme","dark","dark theme","gamer theme","game","video game","night","fliperama","arcade","pixel"],
+  "publisher": "Cyberpink",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpink",
+        "uiTheme": "vs-dark",
+        "path": "./cyberpink-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "ALY-137 ©"
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.7.0"
+  }
+}
