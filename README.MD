@@ -1,4 +1,8 @@
-# [VS Code Extension - Install version 1.0.34](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
+# [VS Code Extension - Install version 1.0.35](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
+
+# CYBERPINK © 
+
+#### CYBERPINK is a style based on cyberpunk culture. It was created thinking about the best adaptation to users who suffer from light sensitivity or photophobia, so that this is possible, dark colors and neon colors are used, 100% free from yellow light.
 
 ![SCREEN](https://user-images.githubusercontent.com/57689838/166112078-82367bae-7cb6-4453-870d-4351d423e3f3.gif)
 
@@ -18,9 +22,9 @@
  _},_
 
 ![pair](https://user-images.githubusercontent.com/57689838/167899414-76f589e0-b23b-43c6-b41d-7773913834fb.gif)
-![GIF](https://user-images.githubusercontent.com/57689838/165635544-4b6ed2ea-93ba-446b-83e2-35440e403711.gif)
+![cupcake](https://user-images.githubusercontent.com/57689838/181661907-8595e8c1-7a8e-4728-a5e0-63e871586f84.gif)
 [![donate](https://user-images.githubusercontent.com/57689838/166201965-5b537bdb-98da-48cc-8e00-e86c472c22c0.gif)](https://ko-fi.com/aly137)
 
 _CYBERPINK © Theme_
 | :------: |
-**[Created by: ALY-137 ©](https://github.com/ALY-137/)**
+**[Created by: Savanna Passarela | ALY-137 ©](https://www.ALY-137.com/)**
