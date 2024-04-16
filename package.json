@@ -1,13 +1,13 @@
 {
   "name": "cyberpink-theme",
   "description": "Dark theme in cyberpunk style with neon pink and violet.",
-  "displayName": "CYBERPINK ©",
-  "version": "1.0.35",
+  "displayName": "CYBERPINK-137",
+  "version": "1.0.41",
   "icon": "assets/icon.jpg",
   "repository": {
     "url": "https://github.com/ALY-137/CYBERPINK.git"
   },
-  "keywords": ["cyberpunk","neon","purple","pink","violet","blue","cyberpink","Cyberpunk 2077","pink and purple theme","pink theme","purple theme","cyberpunk theme","Neon theme","violet theme","dark","dark theme","gamer theme","game","video game","night","fliperama","arcade","pixel"],
+  "keywords": ["Vscode","Cyber","Savanna Oliveira","ALY-137","cyberpink-137","cyberpunk","neon","purple","pink","violet","blue","cyberpink","Cyberpunk 2077","pink and purple theme","pink theme","purple theme","cyberpunk theme","Neon theme","violet theme","dark","dark theme","gamer theme","game","video game","night","fliperama","arcade","lo-fi","pixel","aesthetic"],
   "publisher": "Cyberpink",
   "engines": {
     "vscode": "^1.22.0"
@@ -23,7 +23,7 @@
     ]
   },
   "author": {
-    "name": "Savanna Passarela"
+    "name": "Savanna Oliveira"
   },
   "scripts": {
     "package": "vsce package --no-yarn",

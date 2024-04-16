@@ -1,8 +1,7 @@
-# [VS Code Extension - Install version 1.0.35](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
+# [Developed by ALY-137 ©](https://aly137.vercel.app/)
 
-# CYBERPINK © 
 
-#### CYBERPINK is a style based on cyberpunk culture. It was created thinking about the best adaptation to users who suffer from light sensitivity or photophobia, so that this is possible, dark colors and neon colors are used, 100% free from yellow light.
+#### CYBERPINK-137 is a style based on cyberpunk culture. It was created thinking about the best adaptation to users who suffer from light sensitivity or photophobia, so that this is possible, dark colors and neon colors are used, 100% free from yellow light.
 
 ![SCREEN](https://user-images.githubusercontent.com/57689838/166112078-82367bae-7cb6-4453-870d-4351d423e3f3.gif)
 
@@ -22,9 +21,13 @@
  _},_
 
 ![pair](https://user-images.githubusercontent.com/57689838/167899414-76f589e0-b23b-43c6-b41d-7773913834fb.gif)
-![cupcake](https://user-images.githubusercontent.com/57689838/181661907-8595e8c1-7a8e-4728-a5e0-63e871586f84.gif)
-[![donate](https://user-images.githubusercontent.com/57689838/166201965-5b537bdb-98da-48cc-8e00-e86c472c22c0.gif)](https://ko-fi.com/aly137)
 
-_CYBERPINK © Theme_
-| :------: |
-**[Created by: Savanna Passarela | ALY-137 ©](https://www.ALY-137.com/)**
+## **[ALY-137](https://aly137.vercel.app/)**
+
+##### ALY (ALGORITMIC LABORATORY OF YIELD) IT IS DEDICATED TO GENERATING SOLUTIONS IN TECHNOLOGY AND DIGITAL DESIGN. ITS SPECIALTY CONSISTS OF USING ADVANCED LOGIC AND CREATIVITY WITH THE OBJECTIVE OF MAKING ITS PARTNERS' PROJECTS MORE PROFITABLE.
+
+
+
+
+_CYBERPINK-137 © Theme_
+**[Created by: Savanna Oliveira | ALY-137 ©](https://aly137.vercel.app/)**
